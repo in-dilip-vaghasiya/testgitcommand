@@ -1,4 +1,6 @@
 <?php
+//echo 'this is testing 2';
+//echo 'after use git add command:';
 require_once "config.php";
 require_once CLASS_PATH."/class.ammamember.php";
 require_once CLASS_PATH."/awardCategory.php";
